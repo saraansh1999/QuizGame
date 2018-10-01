@@ -6,10 +6,11 @@
 > Go into the path ```/go/src```
 > Run ```go run main.go```
 > Go to the path ```/react-app/```
-> Run ```yarn start```
+> Run ```yarn``` then ```yarn start```
 
 ## Features
 * This is a quiz portal with genres Comics,Sports,History,Other.
 * You can attempt quizzes and compare your performance with other players.
 * Admin can create new quizzes and create/edit/delete quiz questions.
 * Admin can view/delete users.
+
